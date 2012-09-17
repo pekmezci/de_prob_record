@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="ProB Record Action" url="https://github.com/pekmezci/de_prob_record">
+      ProB Record Action download site
+   </description>
+   <feature url="features/de.prob.record_feature_1.0.0.201209172026.jar" id="de.prob.record_feature" version="1.0.0.201209172026"/>
+</site>
